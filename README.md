@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Joshua 👋</h1>
+<h1 align="center">Hello there, I'm Joshua</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;Simulation+%26+Platform+Tooling;React+%E2%80%A2+Node+%E2%80%A2+MongoDB;Always+building+something+new" alt="Typing SVG" />
@@ -57,10 +57,10 @@
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Overall Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshuaduffill&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshuaduffill&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&days=365" alt="Overall contribution graph"/>
 </p>
 
 ---
@@ -69,14 +69,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=joshuaduffill&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joshuaduffill/joshuaduffill/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
