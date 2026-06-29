@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Joshua 👋</h1>
+<h1 align="center">Joshua Duffill<h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;Simulation+%26+Platform+Tooling;React+%E2%80%A2+Node+%E2%80%A2+MongoDB;Always+building+something+new" alt="Typing SVG" />
@@ -18,10 +18,11 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **full-stack tooling for digital simulation platforms**
-- 🌱 Currently sharpening my skills in **[what you're learning]**
-- 💬 Ask me about **React, Node.js, MongoDB, and API integration**
-- ⚡ Fun fact: **[add something fun here]**
+- 🔭 I'm currently working on **full-stack tooling for digital simulation platforms** — delivery reliability, automated readiness checks, and platform integrations
+- 🌱 Currently exploring **AI / LLM integration and prompt engineering** for interactive simulations
+- 💬 Ask me about **React, Node.js, MongoDB, REST API integration, and simulation platform tooling**
+- 🌍 I build and ship across globally distributed teams, working in both **English and Spanish**
+- ⚡ Fun fact: **[add a personal one — a hobby, a quirk, anything you'd want visitors to know]**
 
 ---
 
