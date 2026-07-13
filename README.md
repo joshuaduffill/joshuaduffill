@@ -53,7 +53,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Commits_in_2026-4%2C013-58A6FF?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/>
-  <img src="https://img.shields.io/badge/Org_Rank-%231_of_75-F5B942?style=for-the-badge&logo=github&logoColor=white" alt="Rank"/>
+  <img src="https://img.shields.io/badge/Org_Rank-%231_of_91-F5B942?style=for-the-badge&logo=github&logoColor=white" alt="Rank"/>
   <img src="https://img.shields.io/badge/Repositories-31-26C258?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
 </p>
 <p align="center">
@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/Share_of_Org-38%25-C98BFF?style=for-the-badge&logo=databricks&logoColor=white" alt="Share of org"/>
 </p>
 
-<p align="center"><b>#1 committer of 75 org members — 8.3× the runner-up.</b></p>
+<p align="center"><b>#1 committer of 91 org members — 8.3× the runner-up.</b></p>
 
 ### 📅 Monthly Cadence
 
