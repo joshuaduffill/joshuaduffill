@@ -18,12 +18,19 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **full-stack tooling for digital simulation platforms** — delivery reliability, automated readiness checks, and platform integrations
-- 🌱 Currently exploring **AI / LLM integration and prompt engineering** for interactive simulations
-- 💬 Ask me about **React, Node.js, MongoDB, REST API integration, and simulation platform tooling**
-- 🌍 I build and ship across globally distributed teams, working in both **English and Spanish**
-- 📸 Outside of code, I'm into **photography and filmmaking** — same eye for detail, different medium
-- ⚡ Fun fact: I've officially declared myself a **doomcoder** — I probably *should* stop, but the passion for building just keeps me going
+<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Coding" />
+
+> Full-stack developer building **digital simulation platforms** — the reliability tooling, readiness checks, and integrations that keep them shipping. A self-declared **doomcoder** who probably *should* stop, but the build never quite lets me.
+
+```yaml
+Now:         full-stack tooling for simulation platforms — reliability, readiness checks, integrations
+Exploring:   AI / LLM integration & prompt engineering for interactive sims
+Ask me:      React · Node.js · MongoDB · REST APIs · simulation tooling
+Ships in:    English & Spanish, across globally distributed teams
+Off-screen:  photography & filmmaking — same eye for detail, different medium
+```
+
+<br clear="right"/>
 
 <p align="center">
   <sub><b>Total commits shipped in 2026</b></sub><br/>
@@ -94,18 +101,33 @@
   <img src="https://img.shields.io/badge/Claude_%24494-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude cost"/>
 </p>
 
-| Provider · Model | Requests | Input | Cached | Output | Cost |
-|:--|--:|--:|--:|--:|--:|
-| 🟢 codex · **gpt-5.6-sol** | 2,769 | 448.6M | 438.9M | 1.35M | **$2,482.89** |
-| 🟢 codex · gpt-5.5 | 1,405 | 142.0M | 132.5M | 0.98M | $790.83 |
-| 🟠 claude · fable-5 | 2,870 | 2.3M | 495.5M | 1.53M | $236.72 |
-| 🟠 claude · opus-4-8 | 1,722 | 1.3M | 349.3M | 1.47M | $176.24 |
-| 🟢 codex · gpt-5.6-luna | 197 | 26.1M | 25.5M | 0.03M | $143.58 |
-| 🟠 claude · sonnet-5 | 1,880 | 0.7M | 192.5M | 0.18M | $81.52 |
-| 🟢 codex · gpt-5.6-terra | 121 | 12.5M | 12.1M | 0.04M | $68.83 |
-| 🟢 codex · gpt-5.4 | 98 | 7.5M | 6.2M | 0.06M | $41.27 |
+<div align="center">
 
-<sub>Scanned from 66 Codex + 256 Claude session files (`~/.codex` + `~/.claude`). Costs estimated at provider list prices; ~98% of input was cache-hit. Codex handles the heavy generation ($3.5k), Claude the high-frequency turns (6,472 requests).</sub>
+<table>
+  <thead>
+    <tr>
+      <th align="left">Provider · Model</th>
+      <th align="right">Requests</th>
+      <th align="right">Input</th>
+      <th align="right">Cached</th>
+      <th align="right">Output</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>🟢 codex · <b>gpt-5.6-sol</b></td><td align="right">2,769</td><td align="right">448.6M</td><td align="right">438.9M</td><td align="right">1.35M</td></tr>
+    <tr><td>🟢 codex · gpt-5.5</td><td align="right">1,405</td><td align="right">142.0M</td><td align="right">132.5M</td><td align="right">0.98M</td></tr>
+    <tr><td>🟠 claude · fable-5</td><td align="right">2,870</td><td align="right">2.3M</td><td align="right">495.5M</td><td align="right">1.53M</td></tr>
+    <tr><td>🟠 claude · opus-4-8</td><td align="right">1,722</td><td align="right">1.3M</td><td align="right">349.3M</td><td align="right">1.47M</td></tr>
+    <tr><td>🟢 codex · gpt-5.6-luna</td><td align="right">197</td><td align="right">26.1M</td><td align="right">25.5M</td><td align="right">0.03M</td></tr>
+    <tr><td>🟠 claude · sonnet-5</td><td align="right">1,880</td><td align="right">0.7M</td><td align="right">192.5M</td><td align="right">0.18M</td></tr>
+    <tr><td>🟢 codex · gpt-5.6-terra</td><td align="right">121</td><td align="right">12.5M</td><td align="right">12.1M</td><td align="right">0.04M</td></tr>
+    <tr><td>🟢 codex · gpt-5.4</td><td align="right">98</td><td align="right">7.5M</td><td align="right">6.2M</td><td align="right">0.06M</td></tr>
+  </tbody>
+</table>
+
+</div>
+
+<sub>Scanned from 66 Codex + 256 Claude session files (`~/.codex` + `~/.claude`). ~98% of input was cache-hit. Codex handles the heavy generation, Claude the high-frequency turns (6,472 requests).</sub>
 
 ---
 
@@ -146,11 +168,24 @@
 
 ---
 
-## 🏆 Trophies
+## 🏆 Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joshuaduffill&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-frame=true" alt="Trophies"/>
+  <img src="https://img.shields.io/badge/%231_Committer-of_91_in_BTS--USA-F5B942?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="#1 committer"/>
+  <img src="https://img.shields.io/badge/4%2C013-commits_in_2026-58A6FF?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits"/>
+  <img src="https://img.shields.io/badge/8.3×-lead_over_%232-26C258?style=for-the-badge&labelColor=0d1117" alt="Lead"/>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/212-commits_in_one_day-EA4335?style=for-the-badge&labelColor=0d1117&logo=fireship&logoColor=white" alt="Busiest day"/>
+  <img src="https://img.shields.io/badge/98-active_coding_days-8A63D2?style=for-the-badge&labelColor=0d1117&logo=googlecalendar&logoColor=white" alt="Active days"/>
+  <img src="https://img.shields.io/badge/31-repositories_shipped-10A37F?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Repos"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/1.69B-AI_tokens_·_12_days-D97757?style=for-the-badge&labelColor=0d1117&logo=probot&logoColor=white" alt="Tokens"/>
+  <img src="https://img.shields.io/badge/TypeScript--first-63%25_of_the_stack-3178C6?style=for-the-badge&labelColor=0d1117&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
+
+<sub align="center">Achievements reflect private BTS-USA org contributions, which don't appear in the public graphs above.</sub>
 
 ---
 

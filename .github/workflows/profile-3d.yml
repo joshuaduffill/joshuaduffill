@@ -21,6 +21,30 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Strip empty language pie chart
+        run: |
+          python3 - <<'PY'
+          import glob, re
+          MARKER = '<g transform="translate(40, 520)">'
+          for f in glob.glob('profile-3d-contrib/*.svg'):
+              s = open(f).read()
+              i = s.find(MARKER)
+              if i < 0:
+                  continue
+              depth = 0
+              end = None
+              for m in re.finditer(r'<g\b|</g>', s[i:]):
+                  if m.group() == '</g>':
+                      depth -= 1
+                      if depth == 0:
+                          end = i + m.end()
+                          break
+                  else:
+                      depth += 1
+              if end:
+                  open(f, 'w').write(s[:i] + s[end:])
+                  print('stripped pie from', f)
+          PY
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
