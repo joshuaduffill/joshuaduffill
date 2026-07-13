@@ -1,4 +1,4 @@
-<h1 align="center">Joshua Duffill<h1>
+<h1 align="center">Joshua Duffill</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;Simulation+%26+Platform+Tooling;React+%E2%80%A2+Node+%E2%80%A2+MongoDB;Always+building+something+new" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:joshuaduffill@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://YOUR-WEBSITE.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/></a>
 </p>
 
@@ -22,7 +22,8 @@
 - 🌱 Currently exploring **AI / LLM integration and prompt engineering** for interactive simulations
 - 💬 Ask me about **React, Node.js, MongoDB, REST API integration, and simulation platform tooling**
 - 🌍 I build and ship across globally distributed teams, working in both **English and Spanish**
-- ⚡ Fun fact: **[add a personal one — a hobby, a quirk, anything you'd want visitors to know]**
+- 📸 Outside of code, I'm into **photography and filmmaking** — same eye for detail, different medium
+- ⚡ Fun fact: I've officially declared myself a **doomcoder** — I probably *should* stop, but the passion for building just keeps me going
 
 ---
 
@@ -41,6 +42,46 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+## 🔥 2026 by the Numbers
+
+> Private engineering output across the **BTS-USA** organization · *1 Jan – 3 Jun 2026*.
+> These are private-org contributions, so they don't show up in the public graphs below — but they're the real story.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits_in_2026-3%2C063-58A6FF?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/>
+  <img src="https://img.shields.io/badge/Org_Rank-%231_of_75-F5B942?style=for-the-badge&logo=github&logoColor=white" alt="Rank"/>
+  <img src="https://img.shields.io/badge/Repositories-31-26C258?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Active_Days-66-58A6FF?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Active days"/>
+  <img src="https://img.shields.io/badge/Avg_%2F_Active_Day-46-8A63D2?style=for-the-badge&logo=speedtest&logoColor=white" alt="Average per day"/>
+  <img src="https://img.shields.io/badge/Busiest_Day-212_commits-EA4335?style=for-the-badge&logo=fireship&logoColor=white" alt="Busiest day"/>
+  <img src="https://img.shields.io/badge/Share_of_Org-38%25-C98BFF?style=for-the-badge&logo=databricks&logoColor=white" alt="Share of org"/>
+</p>
+
+<p align="center"><b>#1 committer of 75 org members — 7.1× the runner-up.</b></p>
+
+### 📅 Monthly Cadence
+
+```text
+Jan  ▏                        0
+Feb  ██                       116
+Mar  ██████████████           832
+Apr  ████████████████████     1,199   🏆 biggest month
+May  ███████████████          902
+Jun  ▏                        14   (through Jun 3)
+```
+
+### ⚙️ How Those Commits Were Made
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Plain_git_%2F_PR_merge-1%2C878-3A6EA5?style=flat-square" alt="Manual"/>
+  <img src="https://img.shields.io/badge/Claude_Code_co--authored-1%2C040-26C258?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/GitHub_web_UI-135-C98BFF?style=flat-square&logo=github&logoColor=white" alt="Web"/>
 </p>
 
 ---
