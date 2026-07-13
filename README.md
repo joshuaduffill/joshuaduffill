@@ -80,7 +80,7 @@
 
 ## 🤖 AI Pair-Programming Usage
 
-> Cost & token usage across my local **Codex** and **Claude** CLI sessions · *12-day window, snapshot 13 Jul 2026*.
+> Cost & token usage across my local **Codex** and **Claude** CLI sessions · *last 12 days, snapshot 13 Jul 2026*.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Est._Cost-%244%2C024-F5B942?style=for-the-badge&logo=cashapp&logoColor=white" alt="Cost"/>
