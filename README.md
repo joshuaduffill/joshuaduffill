@@ -67,15 +67,9 @@
 
 ### 📅 Monthly Cadence
 
-```text
-Jan  ▏                        0
-Feb  ██                       116
-Mar  ██████████████           840
-Apr  ████████████████████     1,192   🏆 biggest month
-May  ███████████████          911
-Jun  ████████████             717
-Jul  ████                     237   (through Jul 13)
-```
+<p align="center">
+  <img src="./assets/monthly-commits.svg" alt="Monthly commits 2026 — bar chart" width="100%"/>
+</p>
 
 ### ⚙️ How Those Commits Were Made
 
