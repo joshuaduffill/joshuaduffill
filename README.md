@@ -25,6 +25,11 @@
 - 📸 Outside of code, I'm into **photography and filmmaking** — same eye for detail, different medium
 - ⚡ Fun fact: I've officially declared myself a **doomcoder** — I probably *should* stop, but the passion for building just keeps me going
 
+<p align="center">
+  <sub><b>Total commits shipped in 2026</b></sub><br/>
+  <img src="https://count.getloli.com/get/@joshuaduffill-commits?theme=moebooru&num=4013&padding=4" alt="Total 2026 commits counter"/>
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -73,32 +78,37 @@
 
 ---
 
-## 🤖 Codex CLI Usage
+## 🤖 AI Pair-Programming Usage
 
-> Measured from **486 local Codex CLI sessions** · *Feb – 13 Jul 2026*.
-> ~4 billion tokens processed to ship those ~4,000 commits.
+> Tokens processed by my AI coding CLIs. **Codex** history spans Feb–Jul; **Claude Code** keeps only ~30 days of transcripts (12 Jun – 13 Jul) — a far shorter window, yet the heavier load.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tokens_Processed-~4.0_Billion-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Tokens"/>
-  <img src="https://img.shields.io/badge/Sessions-486-58A6FF?style=for-the-badge&logo=openai&logoColor=white" alt="Sessions"/>
-  <img src="https://img.shields.io/badge/Cache_Hit_Rate-94%25-26C258?style=for-the-badge&logo=redis&logoColor=white" alt="Cache"/>
+  <img src="https://img.shields.io/badge/Tokens_Processed-~13.1_Billion-8A63D2?style=for-the-badge&logo=probot&logoColor=white" alt="Total tokens"/>
+  <img src="https://img.shields.io/badge/Total_Sessions-1%2C402-58A6FF?style=for-the-badge&logo=ghostery&logoColor=white" alt="Sessions"/>
+  <img src="https://img.shields.io/badge/Generated_Output-~59M-EA4335?style=for-the-badge&logo=fireship&logoColor=white" alt="Output"/>
 </p>
+
+### 🟠 Claude Code · *12 Jun – 13 Jul (~30 days)*
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Avg_%2F_Session-8.3M-8A63D2?style=for-the-badge&logo=speedtest&logoColor=white" alt="Avg per session"/>
-  <img src="https://img.shields.io/badge/Biggest_Session-238M_tokens-EA4335?style=for-the-badge&logo=fireship&logoColor=white" alt="Biggest session"/>
-  <img src="https://img.shields.io/badge/Peak_Month-May_·_2.8B-F5B942?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Peak month"/>
+  <img src="https://img.shields.io/badge/Tokens-9.1B-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude tokens"/>
+  <img src="https://img.shields.io/badge/Sessions-916-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude sessions"/>
+  <img src="https://img.shields.io/badge/Cache_Hit-96%25-26C258?style=for-the-badge&logo=redis&logoColor=white" alt="Claude cache"/>
+  <img src="https://img.shields.io/badge/Avg_%2F_Session-9.9M-8A63D2?style=for-the-badge" alt="Claude avg"/>
+  <img src="https://img.shields.io/badge/Biggest-518M-EA4335?style=for-the-badge" alt="Claude biggest"/>
 </p>
 
-| Month | Tokens | Sessions |
-|:--|--:|--:|
-| Feb | 0.6M | 4 |
-| Mar | 7.5M | 8 |
-| Apr | 419M | 82 |
-| May | **2.8B** 🏆 | 295 |
-| Jun | 689M | 58 |
-| Jul | 74.8M | 39 |
+### 🟢 Codex CLI · *Feb – 13 Jul (~5 months)*
 
-<sub>Tokens = total processed (input + output); 94% were cache hits. Output tokens: 15.4M · reasoning tokens: 4.9M.</sub>
+<p align="center">
+  <img src="https://img.shields.io/badge/Tokens-4.0B-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Codex tokens"/>
+  <img src="https://img.shields.io/badge/Sessions-486-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Codex sessions"/>
+  <img src="https://img.shields.io/badge/Cache_Hit-94%25-26C258?style=for-the-badge&logo=redis&logoColor=white" alt="Codex cache"/>
+  <img src="https://img.shields.io/badge/Avg_%2F_Session-8.3M-8A63D2?style=for-the-badge" alt="Codex avg"/>
+  <img src="https://img.shields.io/badge/Biggest-238M-EA4335?style=for-the-badge" alt="Codex biggest"/>
+</p>
+
+<sub>"Tokens processed" = input + cache + output summed across all sessions; cache reads dominate (context is re-sent each turn — 94–96% cache hits). Peak months: Claude Code Jun 6.3B · Codex May 2.8B.</sub>
 
 ---
 
