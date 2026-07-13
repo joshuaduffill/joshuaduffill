@@ -71,14 +71,6 @@
   <img src="./assets/monthly-commits.svg" alt="Monthly commits 2026 — bar chart" width="100%"/>
 </p>
 
-### ⚙️ How Those Commits Were Made
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Plain_git_%2F_PR_merge-1%2C878-3A6EA5?style=flat-square" alt="Manual"/>
-  <img src="https://img.shields.io/badge/Claude_Code_co--authored-1%2C040-26C258?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
-  <img src="https://img.shields.io/badge/GitHub_web_UI-135-C98BFF?style=flat-square&logo=github&logoColor=white" alt="Web"/>
-</p>
-
 ---
 
 ## 🤖 Codex CLI Usage
