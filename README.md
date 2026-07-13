@@ -1,4 +1,4 @@
-<h1 align="center">Joshua Duffill</h1>
+<h1 align="center">Joshua</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;Simulation+%26+Platform+Tooling;React+%E2%80%A2+Node+%E2%80%A2+MongoDB;Always+building+something+new" alt="Typing SVG" />
