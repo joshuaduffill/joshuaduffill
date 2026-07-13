@@ -80,35 +80,32 @@
 
 ## 🤖 AI Pair-Programming Usage
 
-> Tokens processed by my AI coding CLIs. **Codex** history spans Feb–Jul; **Claude Code** keeps only ~30 days of transcripts (12 Jun – 13 Jul) — a far shorter window, yet the heavier load.
+> Cost & token usage across my local **Codex** and **Claude** CLI sessions · *12-day window, snapshot 13 Jul 2026*.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tokens_Processed-~13.1_Billion-8A63D2?style=for-the-badge&logo=probot&logoColor=white" alt="Total tokens"/>
-  <img src="https://img.shields.io/badge/Total_Sessions-1%2C402-58A6FF?style=for-the-badge&logo=ghostery&logoColor=white" alt="Sessions"/>
-  <img src="https://img.shields.io/badge/Generated_Output-~59M-EA4335?style=for-the-badge&logo=fireship&logoColor=white" alt="Output"/>
+  <img src="https://img.shields.io/badge/Est._Cost-%244%2C024-F5B942?style=for-the-badge&logo=cashapp&logoColor=white" alt="Cost"/>
+  <img src="https://img.shields.io/badge/Tokens-1.69_Billion-8A63D2?style=for-the-badge&logo=probot&logoColor=white" alt="Tokens"/>
+  <img src="https://img.shields.io/badge/Requests-11%2C163-58A6FF?style=for-the-badge&logo=ghostery&logoColor=white" alt="Requests"/>
 </p>
-
-### 🟠 Claude Code · *12 Jun – 13 Jul (~30 days)*
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Tokens-9.1B-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude tokens"/>
-  <img src="https://img.shields.io/badge/Sessions-916-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude sessions"/>
-  <img src="https://img.shields.io/badge/Cache_Hit-96%25-26C258?style=for-the-badge&logo=redis&logoColor=white" alt="Claude cache"/>
-  <img src="https://img.shields.io/badge/Avg_%2F_Session-9.9M-8A63D2?style=for-the-badge" alt="Claude avg"/>
-  <img src="https://img.shields.io/badge/Biggest-518M-EA4335?style=for-the-badge" alt="Claude biggest"/>
+  <img src="https://img.shields.io/badge/~%24335_%2F_day-26C258?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Per day"/>
+  <img src="https://img.shields.io/badge/~%240.36_%2F_request-8A63D2?style=for-the-badge&logo=speedtest&logoColor=white" alt="Per request"/>
+  <img src="https://img.shields.io/badge/Codex_%243%2C527-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Codex cost"/>
+  <img src="https://img.shields.io/badge/Claude_%24494-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude cost"/>
 </p>
 
-### 🟢 Codex CLI · *Feb – 13 Jul (~5 months)*
+| Provider · Model | Requests | Input | Cached | Output | Cost |
+|:--|--:|--:|--:|--:|--:|
+| 🟢 codex · **gpt-5.6-sol** | 2,769 | 448.6M | 438.9M | 1.35M | **$2,482.89** |
+| 🟢 codex · gpt-5.5 | 1,405 | 142.0M | 132.5M | 0.98M | $790.83 |
+| 🟠 claude · fable-5 | 2,870 | 2.3M | 495.5M | 1.53M | $236.72 |
+| 🟠 claude · opus-4-8 | 1,722 | 1.3M | 349.3M | 1.47M | $176.24 |
+| 🟢 codex · gpt-5.6-luna | 197 | 26.1M | 25.5M | 0.03M | $143.58 |
+| 🟠 claude · sonnet-5 | 1,880 | 0.7M | 192.5M | 0.18M | $81.52 |
+| 🟢 codex · gpt-5.6-terra | 121 | 12.5M | 12.1M | 0.04M | $68.83 |
+| 🟢 codex · gpt-5.4 | 98 | 7.5M | 6.2M | 0.06M | $41.27 |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tokens-4.0B-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Codex tokens"/>
-  <img src="https://img.shields.io/badge/Sessions-486-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Codex sessions"/>
-  <img src="https://img.shields.io/badge/Cache_Hit-94%25-26C258?style=for-the-badge&logo=redis&logoColor=white" alt="Codex cache"/>
-  <img src="https://img.shields.io/badge/Avg_%2F_Session-8.3M-8A63D2?style=for-the-badge" alt="Codex avg"/>
-  <img src="https://img.shields.io/badge/Biggest-238M-EA4335?style=for-the-badge" alt="Codex biggest"/>
-</p>
-
-<sub>"Tokens processed" = input + cache + output summed across all sessions; cache reads dominate (context is re-sent each turn — 94–96% cache hits). Peak months: Claude Code Jun 6.3B · Codex May 2.8B.</sub>
+<sub>Scanned from 66 Codex + 256 Claude session files (`~/.codex` + `~/.claude`). Costs estimated at provider list prices; ~98% of input was cache-hit. Codex handles the heavy generation ($3.5k), Claude the high-frequency turns (6,472 requests).</sub>
 
 ---
 
