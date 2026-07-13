@@ -1,14 +1,8 @@
-<table>
-  <tr>
-    <td width="230" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif" width="200" alt="Coding animation" />
-    </td>
-    <td valign="middle">
-      <h1>Joshua</h1>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=560&lines=Full-Stack+Developer;Simulation+%26+Platform+Tooling;React+%E2%80%A2+Node+%E2%80%A2+MongoDB;Always+building+something+new" alt="Typing SVG" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img align="middle" src="https://user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif" width="200" alt="Coding animation" />
+  &nbsp;&nbsp;
+  <img align="middle" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=520&lines=Full-Stack+Developer;Simulation+%26+Platform+Tooling;React+%E2%80%A2+Node+%E2%80%A2+MongoDB;Always+building+something+new" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joshuaduffill&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
