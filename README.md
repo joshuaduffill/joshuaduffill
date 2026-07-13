@@ -57,8 +57,8 @@
   <img src="https://img.shields.io/badge/Repositories-31-26C258?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Active_Days-66-58A6FF?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Active days"/>
-  <img src="https://img.shields.io/badge/Avg_%2F_Active_Day-46-8A63D2?style=for-the-badge&logo=speedtest&logoColor=white" alt="Average per day"/>
+  <img src="https://img.shields.io/badge/Active_Days-98-58A6FF?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Active days"/>
+  <img src="https://img.shields.io/badge/Avg_%2F_Active_Day-41-8A63D2?style=for-the-badge&logo=speedtest&logoColor=white" alt="Average per day"/>
   <img src="https://img.shields.io/badge/Busiest_Day-212_commits-EA4335?style=for-the-badge&logo=fireship&logoColor=white" alt="Busiest day"/>
   <img src="https://img.shields.io/badge/Share_of_Org-38%25-C98BFF?style=for-the-badge&logo=databricks&logoColor=white" alt="Share of org"/>
 </p>
@@ -70,10 +70,11 @@
 ```text
 Jan  ▏                        0
 Feb  ██                       116
-Mar  ██████████████           832
-Apr  ████████████████████     1,199   🏆 biggest month
-May  ███████████████          902
-Jun  ▏                        14   (through Jun 3)
+Mar  ██████████████           840
+Apr  ████████████████████     1,192   🏆 biggest month
+May  ███████████████          911
+Jun  ████████████             717
+Jul  ████                     237   (through Jul 13)
 ```
 
 ### ⚙️ How Those Commits Were Made
