@@ -126,6 +126,14 @@
 
 ---
 
+## 🧬 Languages
+
+<p align="center">
+  <img src="./assets/languages.svg" alt="Language breakdown across BTS-USA repositories" width="100%"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
