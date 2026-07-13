@@ -81,6 +81,43 @@
 
 ---
 
+## 🤖 Codex CLI Usage
+
+> Measured from **486 local Codex CLI sessions** · *Feb – 13 Jul 2026*.
+> ~4 billion tokens processed to ship those ~4,000 commits.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tokens_Processed-~4.0_Billion-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Tokens"/>
+  <img src="https://img.shields.io/badge/Sessions-486-58A6FF?style=for-the-badge&logo=openai&logoColor=white" alt="Sessions"/>
+  <img src="https://img.shields.io/badge/Cache_Hit_Rate-94%25-26C258?style=for-the-badge&logo=redis&logoColor=white" alt="Cache"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Avg_%2F_Session-8.3M-8A63D2?style=for-the-badge&logo=speedtest&logoColor=white" alt="Avg per session"/>
+  <img src="https://img.shields.io/badge/Biggest_Session-238M_tokens-EA4335?style=for-the-badge&logo=fireship&logoColor=white" alt="Biggest session"/>
+  <img src="https://img.shields.io/badge/Peak_Month-May_·_2.8B-F5B942?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Peak month"/>
+</p>
+
+| Month | Tokens | Sessions |
+|:--|--:|--:|
+| Feb | 0.6M | 4 |
+| Mar | 7.5M | 8 |
+| Apr | 419M | 82 |
+| May | **2.8B** 🏆 | 295 |
+| Jun | 689M | 58 |
+| Jul | 74.8M | 39 |
+
+<sub>Tokens = total processed (input + output); 94% were cache hits. Output tokens: 15.4M · reasoning tokens: 4.9M.</sub>
+
+---
+
+## 🧊 3D Contribution Calendar
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D isometric contribution calendar" width="100%"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
