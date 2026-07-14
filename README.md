@@ -16,9 +16,7 @@
 
 ---
 
-## 🚀 About Me
-
-<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Coding" />
+## `> whoami`
 
 > Full-stack developer building **digital simulation platforms** — the reliability tooling, readiness checks, and integrations that keep them shipping. A self-declared **doomcoder** who probably *should* stop, but the build never quite lets me.
 
@@ -29,8 +27,6 @@ Ask me:      React · Node.js · MongoDB · REST APIs · simulation tooling
 Ships in:    English & Spanish, across globally distributed teams
 Off-screen:  photography & filmmaking — same eye for detail, different medium
 ```
-
-<br clear="right"/>
 
 <p align="center">
   <sub><b>Total commits shipped in 2026</b></sub><br/>
