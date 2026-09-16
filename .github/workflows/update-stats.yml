@@ -1,0 +1,28 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    # daily at 17:00 UTC, before the 3D calendar run
+    - cron: "0 17 * * *"
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Regenerate stats
+        env:
+          GH_TOKEN: ${{ secrets.STATS_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          ORG: BTS-USA
+        run: python3 scripts/update_stats.py
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets
+          git commit -m "chore: update profile stats" || echo "no changes"
+          git push

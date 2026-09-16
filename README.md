@@ -29,8 +29,10 @@ Off-screen:  photography & filmmaking — same eye for detail, different medium
 ```
 
 <p align="center">
+<!-- STATS:COUNTER:START -->
   <sub><b>Total commits shipped in 2026</b></sub><br/>
-  <img src="https://count.getloli.com/get/@joshuaduffill-commits?theme=moebooru&num=4013&padding=4" alt="Total 2026 commits counter"/>
+  <img src="https://count.getloli.com/get/@joshuaduffill-commits?theme=moebooru&num=4583&padding=4" alt="Total 2026 commits counter"/>
+<!-- STATS:COUNTER:END -->
 </p>
 
 ---
@@ -56,22 +58,24 @@ Off-screen:  photography & filmmaking — same eye for detail, different medium
 
 ## 🔥 2026 by the Numbers
 
-> Private engineering output across the **BTS-USA** organization · *1 Jan – 13 Jul 2026*.
+<!-- STATS:NUMBERS:START -->
+> Private engineering output across the **BTS-USA** organization · *1 Jan – 16 Sep 2026*.
 > These are private-org contributions, so they don't show up in the public graphs below — but they're the real story.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits_in_2026-4%2C013-58A6FF?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/>
-  <img src="https://img.shields.io/badge/Org_Rank-%231_of_91-F5B942?style=for-the-badge&logo=github&logoColor=white" alt="Rank"/>
-  <img src="https://img.shields.io/badge/Repositories-31-26C258?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+  <img src="https://img.shields.io/badge/Commits_in_2026-4%2C583-58A6FF?style=for-the-badge&logo=git&logoColor=white" alt="Commits in 2026"/>
+  <img src="https://img.shields.io/badge/Org_Rank-%231_of_90-F5B942?style=for-the-badge&logo=github&logoColor=white" alt="Org Rank"/>
+  <img src="https://img.shields.io/badge/Repositories-43-26C258?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Active_Days-98-58A6FF?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Active days"/>
-  <img src="https://img.shields.io/badge/Avg_%2F_Active_Day-41-8A63D2?style=for-the-badge&logo=speedtest&logoColor=white" alt="Average per day"/>
-  <img src="https://img.shields.io/badge/Busiest_Day-212_commits-EA4335?style=for-the-badge&logo=fireship&logoColor=white" alt="Busiest day"/>
-  <img src="https://img.shields.io/badge/Share_of_Org-38%25-C98BFF?style=for-the-badge&logo=databricks&logoColor=white" alt="Share of org"/>
+  <img src="https://img.shields.io/badge/Active_Days-116-58A6FF?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Active Days"/>
+  <img src="https://img.shields.io/badge/Avg_%2F_Active_Day-40-8A63D2?style=for-the-badge&logo=speedtest&logoColor=white" alt="Avg / Active Day"/>
+  <img src="https://img.shields.io/badge/Busiest_Day-212_commits-EA4335?style=for-the-badge&logo=fireship&logoColor=white" alt="Busiest Day"/>
+  <img src="https://img.shields.io/badge/Share_of_Org-23%25-C98BFF?style=for-the-badge&logo=databricks&logoColor=white" alt="Share of Org"/>
 </p>
 
-<p align="center"><b>#1 committer of 91 org members — 8.3× the runner-up.</b></p>
+<p align="center"><b>#1 committer of 90 org members — 4.3× the runner-up.</b></p>
+<!-- STATS:NUMBERS:END -->
 
 ### 📅 Monthly Cadence
 
@@ -166,19 +170,23 @@ Off-screen:  photography & filmmaking — same eye for detail, different medium
 
 ## 🏆 Highlights
 
+<!-- STATS:HIGHLIGHTS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%231_Committer-of_91_in_BTS--USA-F5B942?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="#1 committer"/>
-  <img src="https://img.shields.io/badge/4%2C013-commits_in_2026-58A6FF?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits"/>
-  <img src="https://img.shields.io/badge/8.3×-lead_over_%232-26C258?style=for-the-badge&labelColor=0d1117" alt="Lead"/>
+  <img src="https://img.shields.io/badge/%231_Committer-of_90_in_BTS--USA-F5B942?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="#1 Committer"/>
+  <img src="https://img.shields.io/badge/4%2C583-commits_in_2026-58A6FF?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="4,583"/>
+  <img src="https://img.shields.io/badge/4.3%C3%97-lead_over_%232-26C258?style=for-the-badge&labelColor=0d1117" alt="4.3×"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/212-commits_in_one_day-EA4335?style=for-the-badge&labelColor=0d1117&logo=fireship&logoColor=white" alt="Busiest day"/>
-  <img src="https://img.shields.io/badge/98-active_coding_days-8A63D2?style=for-the-badge&labelColor=0d1117&logo=googlecalendar&logoColor=white" alt="Active days"/>
-  <img src="https://img.shields.io/badge/31-repositories_shipped-10A37F?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Repos"/>
+  <img src="https://img.shields.io/badge/212-commits_in_one_day-EA4335?style=for-the-badge&labelColor=0d1117&logo=fireship&logoColor=white" alt="212"/>
+  <img src="https://img.shields.io/badge/116-active_coding_days-8A63D2?style=for-the-badge&labelColor=0d1117&logo=googlecalendar&logoColor=white" alt="116"/>
+  <img src="https://img.shields.io/badge/43-repositories_shipped-10A37F?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="43"/>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript--first-67%25_of_the_stack-3178C6?style=for-the-badge&labelColor=0d1117&logo=typescript&logoColor=white" alt="TypeScript-first"/>
+</p>
+<!-- STATS:HIGHLIGHTS:END -->
 <p align="center">
   <img src="https://img.shields.io/badge/1.69B-AI_tokens_·_12_days-D97757?style=for-the-badge&labelColor=0d1117&logo=probot&logoColor=white" alt="Tokens"/>
-  <img src="https://img.shields.io/badge/TypeScript--first-63%25_of_the_stack-3178C6?style=for-the-badge&labelColor=0d1117&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
 <sub align="center">Achievements reflect private BTS-USA org contributions, which don't appear in the public graphs above.</sub>
