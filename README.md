@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:joshuaduffill@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/joshuaduffill/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:joshua.duffill@bts.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://YOUR-WEBSITE.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/></a>
 </p>
 
@@ -87,47 +87,51 @@ Off-screen:  photography & filmmaking — same eye for detail, different medium
 
 ## 🤖 AI Pair-Programming Usage
 
-> Cost & token usage across my local **Codex** and **Claude** CLI sessions · *last 12 days, snapshot 13 Jul 2026*.
+> Model usage across my local **Codex**, **Claude Code** and **Cursor** CLI sessions · *Feb – 24 Sep 2026*.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Est._Cost-%244%2C024-F5B942?style=for-the-badge&logo=cashapp&logoColor=white" alt="Cost"/>
-  <img src="https://img.shields.io/badge/Tokens-1.69_Billion-8A63D2?style=for-the-badge&logo=probot&logoColor=white" alt="Tokens"/>
-  <img src="https://img.shields.io/badge/Requests-11%2C163-58A6FF?style=for-the-badge&logo=ghostery&logoColor=white" alt="Requests"/>
+  <img src="https://img.shields.io/badge/Requests-74%2C093-58A6FF?style=for-the-badge&logo=ghostery&logoColor=white" alt="Requests 74,093"/>
+  <img src="https://img.shields.io/badge/Tokens-8.2_Billion-8A63D2?style=for-the-badge&logo=probot&logoColor=white" alt="Tokens 8.2 Billion"/>
+  <img src="https://img.shields.io/badge/Models-17_across_3_CLIs-26C258?style=for-the-badge&logo=openai&logoColor=white" alt="Models 17 across 3 CLIs"/>
+  <img src="https://img.shields.io/badge/Sessions-1%2C255-F5B942?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Sessions 1,255"/>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/~%24335_%2F_day-26C258?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Per day"/>
-  <img src="https://img.shields.io/badge/~%240.36_%2F_request-8A63D2?style=for-the-badge&logo=speedtest&logoColor=white" alt="Per request"/>
-  <img src="https://img.shields.io/badge/Codex_%243%2C527-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Codex cost"/>
-  <img src="https://img.shields.io/badge/Claude_%24494-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude cost"/>
-</p>
+
+### 🏅 Most-Used Models
 
 <div align="center">
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Provider · Model</th>
-      <th align="right">Requests</th>
-      <th align="right">Input</th>
-      <th align="right">Cached</th>
-      <th align="right">Output</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>🟢 codex · <b>gpt-5.6-sol</b></td><td align="right">2,769</td><td align="right">448.6M</td><td align="right">438.9M</td><td align="right">1.35M</td></tr>
-    <tr><td>🟢 codex · gpt-5.5</td><td align="right">1,405</td><td align="right">142.0M</td><td align="right">132.5M</td><td align="right">0.98M</td></tr>
-    <tr><td>🟠 claude · fable-5</td><td align="right">2,870</td><td align="right">2.3M</td><td align="right">495.5M</td><td align="right">1.53M</td></tr>
-    <tr><td>🟠 claude · opus-4-8</td><td align="right">1,722</td><td align="right">1.3M</td><td align="right">349.3M</td><td align="right">1.47M</td></tr>
-    <tr><td>🟢 codex · gpt-5.6-luna</td><td align="right">197</td><td align="right">26.1M</td><td align="right">25.5M</td><td align="right">0.03M</td></tr>
-    <tr><td>🟠 claude · sonnet-5</td><td align="right">1,880</td><td align="right">0.7M</td><td align="right">192.5M</td><td align="right">0.18M</td></tr>
-    <tr><td>🟢 codex · gpt-5.6-terra</td><td align="right">121</td><td align="right">12.5M</td><td align="right">12.1M</td><td align="right">0.04M</td></tr>
-    <tr><td>🟢 codex · gpt-5.4</td><td align="right">98</td><td align="right">7.5M</td><td align="right">6.2M</td><td align="right">0.06M</td></tr>
-  </tbody>
-</table>
+| # | Model | CLI | Requests | Share | Output | Active |
+|:--|:--|:--|--:|--:|--:|:--|
+| 🥇 | **gpt-5.5** | codex | 25,477 | 34.4% | 10.4M | Apr – Jul |
+| 🥈 | **gpt-5.6-sol** | codex | 16,208 | 21.9% | 6.3M | Jul – Sep |
+| 🥉 | **gpt-5.4** | codex | 8,182 | 11.0% | 4.5M | Mar – Jul |
+| 4 | **Composer 2.5** | cursor | 7,451 | 10.1% | — | Mar – Sep |
+| 5 | **gpt-5.6-terra** | codex | 4,401 | 5.9% | 1.7M | Jul – Sep |
+| 6 | **claude-opus-5.5** | claude | 3,021 | 4.1% | 1.0M | Sep |
+| 7 | **gpt-5.6-luna** | codex | 2,739 | 3.7% | 1.0M | Jul – Sep |
+| 8 | **gpt-6-astra** | codex | 1,714 | 2.3% | 0.6M | Sep |
+| 9 | **claude-opus-5** | claude | 1,676 | 2.3% | 1.6M | Sep |
+| 10 | **gpt-6-luna** | codex | 1,065 | 1.4% | 0.4M | Sep |
 
 </div>
 
-<sub>Scanned from 66 Codex + 256 Claude session files (`~/.codex` + `~/.claude`). ~98% of input was cache-hit. Codex handles the heavy generation, Claude the high-frequency turns (6,472 requests).</sub>
+<sub>Codex 61.5k requests · Cursor 7.5k · Claude Code 5.1k. Cursor keeps no token counts locally, so its output column is blank.</sub>
+
+### 🔍 What the Sessions Say
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Build_vs_Fix-2.0%3A1-26C258?style=for-the-badge&logo=git&logoColor=white" alt="Build vs fix 2.0:1"/>
+  <img src="https://img.shields.io/badge/Cache_Hit-95%25_of_input-8A63D2?style=for-the-badge&logo=redis&logoColor=white" alt="Cache hit 95% of input"/>
+  <img src="https://img.shields.io/badge/Spec_First-2%2C264_planning_commits-58A6FF?style=for-the-badge&logo=notion&logoColor=white" alt="Spec first 2,264 planning commits"/>
+</p>
+
+- **Features outpace fixes 2:1** — 2,431 `feat` commits against 1,193 `fix` across every repo touched in 2026.
+- **The spec gets written first.** 2,264 commits are roadmap, phase and state documents — plans are versioned artifacts, not throwaway prompts.
+- **Models are tiered by job.** Heavy reasoning tiers (`sol`, `astra`, Opus) take architecture and multi-file work; light tiers (`luna`, `terra`, `mini`) take tests, checks and CLI runs.
+- **Reading dwarfs writing.** 95% of input tokens are cache hits and output is ~0.4% of volume — the budget goes on re-reading the codebase, not generating it.
+- **Work concentrates hard.** Three repos — `naturgy_wop360_ba1`, `alcon-report-api`, `swedish_communities_ba2` — account for 58% of all Codex turns.
+
+<sub>Scanned from 621 Codex, 544 Cursor and 90 Claude Code session files (`~/.codex` + `~/.cursor` + `~/.claude`).</sub>
 
 ---
 
